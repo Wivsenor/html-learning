@@ -3,20 +3,20 @@
 
 ## 插件介绍
 ## 1. HTML CSS Support————html编辑器
-<img src="HTML.png" >
+<img src="../Markdown/HTML.png" >
 
 ## 2. Auto Rename Tag————方便在写html时的自动便捷编辑
-<img src="./auto.png">
+<img src="../Markdown/auto.png">
 
 ## 3. Live Server————html编辑内容在网页实时状态（最有用）
-<img src="./Live.png">
+<img src="../Markdown/Live.png">
 
 ## 环境搭建
 ### 打开VS新建文件夹，在文件夹内创建新的文件，后缀要.html，之后便可在此内编辑
-<img src="./exp.png">
+<img src="../Markdown/exp.png">
 
 ### 如果想要实时显示网站内容样式，可右键打开open with Live Server(这个就是前面Lve Server的作用),就会进入浏览器打开网站显示实时状态。
-<img src="./web.png">
+<img src="../Markdown/web.png">
 
 ## 以上完成后，网站的搭建环境就配置好了🤣👍
 
