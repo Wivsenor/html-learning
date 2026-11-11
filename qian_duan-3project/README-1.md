@@ -1,5 +1,5 @@
 # HTML学习仓库
-📌 笔记入口：[点击打开 note.md](Markdown/note.md)
+📌 笔记入口：[点击打开 html-1.md](./html-1.md)
 
 ---
 📂 目录说明
